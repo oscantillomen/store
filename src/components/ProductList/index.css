@@ -1,0 +1,11 @@
+#container{
+    display: inline;
+    flex-direction: row;
+}
+
+#box{
+    width: 30%;
+    float: left;
+    border: solid 1px rgba(190, 198, 196, 0.2);
+    border-radius: 6px;
+}
